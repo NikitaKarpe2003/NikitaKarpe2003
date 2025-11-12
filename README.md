@@ -1,16 +1,10 @@
 # 👋 Hi, I'm Nikita!
 
-🎓 I'm an MCA Final Year student passionate about **Web Development, Problem Solving, and Data Structures**.  
-💻 I love creating clean, responsive websites and learning new technologies every day.  
-🚀 Currently exploring **LeetCode**, **JavaScript**, and **React** for better coding and placements.
+🎓 MCA Final Year Student | 💻 Aspiring Software Developer  
 
----
-
-### 🌟 About Me
-- 🔭 I’m currently working on improving my **DSA and web development projects**
-- 🌱 Learning **React.js**, **Node.js**, and **API integration**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, or Java**
-- 🧠 Solving coding problems daily on **LeetCode**
+🎹 Passionate about **Web Development**, **Problem Solving**, and **Software Engineering**.  
+🌱 Currently learning **React.js**, **Node.js**, and **Spring Boot** to strengthen my full-stack skills.  
+🚀 Open to roles as a **Fresher Software Engineer / Developer** and eager to grow through real-world projects.  
 - 📫 Reach me at: [nikitakarpe2003@gmail.com]
 - ⚡ Fun fact: I believe great things start with small consistent steps!
 
