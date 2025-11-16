@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikita!
 
-🎓 MCA Final Year Student | 💻 Aspiring Software Developer  
+🎓 MCA Final Year Student | 💻 Aspiring Software Engineer  
 
 🎹 Passionate about **Web Development**, **Problem Solving**, and **Software Engineering**.  
 🌱 Currently learning **React.js**, **Node.js**, and **Spring Boot** to strengthen my full-stack skills.  
